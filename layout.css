@@ -1,0 +1,52 @@
+header { line-height: 50%;
+         background-image: url('book5.png');
+	     background-repeat: no-repeat;
+	     background-position: right;
+	     padding-left: 20px; 
+	     height: 72px;
+	     margin-bottom: 0;
+	     background-color:black;
+	     color:white;
+	     font-size:20px;
+}
+body {
+	    background-image: url('book4.jpg');
+}
+h2 {
+	     padding-left:10px;
+}
+#wrapper { width: 90%;
+           min-width: 700px;
+		   max-width: 1024px;
+           margin-right: auto;
+		   margin-left: auto;
+		   background-color: #D2B48C;
+		   box-shadow: 3px 3px 3px #666666;
+}
+nav a { text-decoration: none; }
+nav a:link { color: #FF4500; }
+nav a:visited { color: #344873 }
+nav a:hover { color: #FFFFFF; }
+main img {
+	      float:right;
+	      padding-left:40px;
+	      padding-right:40px;
+}
+p {
+	      font-size:20px;
+	      padding-left:10px;
+	      padding-right:10px;
+}
+h3{
+	      padding-left:10px;
+}
+ol {
+	     font-size:20px;
+}
+footer { font-size: 15px;
+         text-align: center;
+	     font-style: italic;
+	     padding: 10px;
+	     margin-left: 100px;
+	     background-color: #D2B48C;
+}
